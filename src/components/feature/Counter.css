@@ -1,0 +1,20 @@
+.container {
+  text-align: center;
+}
+
+h1 {
+  color: brown;
+}
+h2 {
+  color: burlywood;
+}
+button {
+  cursor: pointer;
+  margin: 10px;
+  color: burlywood;
+  font-size: 28px;
+  background-color: brown;
+  border: 1px solid burlywood;
+  border-radius: 5px;
+  outline: none !important;
+}
